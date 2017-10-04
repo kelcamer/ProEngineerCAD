@@ -1,0 +1,16 @@
+
+public class square_of_sums_6 {
+
+	public static void main(String[] args) {
+		int sq_of_sum = 0, sum_of_sq = 0;
+		for(int count = 1; count < 101; count++){
+			sq_of_sum += count;
+			
+		}
+		Math.pow(sq_of_sum, 2);
+		
+		
+
+	}
+
+}

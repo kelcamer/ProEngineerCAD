@@ -1,0 +1,31 @@
+
+public class largest_positive_factor_5 {
+	public static void main(String[] args) {
+		boolean flag = false;
+		int smallest = 99999999;
+		for(int num = 0; num < 999999999; num++){
+		/*	for(int fact = 20; fact >=11; fact--){
+				if(num%fact != 0){
+					flag = false;
+				}
+				else{
+					if(num>max)
+						max = num;
+					flag = true;
+				}
+			}
+			*/
+			if(num%20 == 0 &&num%19 == 0 &&num%18 == 0 &&num%17 == 0 &&num%16 == 0 &&num%15 == 0 &&num%14 == 0 &&num%13 == 0 &&num%12 == 0 &&num%11 == 0){
+			
+				if(num < smallest){
+					smallest = num;
+				}
+			}
+		}
+		System.out.println(smallest);
+		
+		
+		
+		
+	}
+}

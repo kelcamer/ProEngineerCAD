@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.epp.package.dsl.feature"
+      label="EPP DSL Feature"
+      version="4.4.2.20150219-0708"
+      provider-name="Eclipse Packaging Project"
+      plugin="org.eclipse.epp.package.dsl">
+
+   <description url="http://eclipse.org/epp">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <discovery label="Luna" url="http://download.eclipse.org/releases/luna/"/>
+      <discovery label="Eclipse Platform 4.4" url="http://download.eclipse.org/eclipse/updates/4.4"/>
+   </url>
+
+   <requires>
+      <import feature="org.eclipse.platform"/>
+      <import feature="org.eclipse.cvs"/>
+      <import feature="org.eclipse.equinox.p2.user.ui"/>
+      <import feature="org.eclipse.help"/>
+      <import feature="org.eclipse.jdt"/>
+      <import feature="org.eclipse.pde"/>
+      <import feature="org.eclipse.sdk"/>
+      <import feature="org.eclipse.rcp"/>
+      <import feature="org.eclipse.xtend.sdk"/>
+      <import feature="org.eclipse.xtext.sdk"/>
+      <import feature="org.eclipse.emf.sdk"/>
+      <import feature="org.eclipse.emf.ecore.xcore.sdk"/>
+      <import feature="org.eclipse.egit"/>
+      <import feature="org.eclipse.egit.import"/>
+      <import feature="org.eclipse.epp.mpc"/>
+      <import feature="org.eclipse.m2e.feature"/>
+      <import feature="org.eclipse.epp.package.common.feature"/>
+      <import feature="org.eclipse.wst.xml_ui.feature"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.epp.package.dsl"
+         download-size="57"
+         install-size="181"
+         version="4.4.2.20150219-0708"/>
+
+</feature>

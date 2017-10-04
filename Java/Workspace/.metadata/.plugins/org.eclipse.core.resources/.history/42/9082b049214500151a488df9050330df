@@ -1,0 +1,16 @@
+
+public class graphs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public class node{
+		node next, prev;
+		node(node n, node p){
+			this.next = n;
+			this.prev = p;
+		}
+	}
+
+}

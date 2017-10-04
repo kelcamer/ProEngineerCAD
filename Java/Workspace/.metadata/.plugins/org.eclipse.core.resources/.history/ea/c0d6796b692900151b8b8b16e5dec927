@@ -1,0 +1,40 @@
+/*
+ * Kelsey Cameron
+ * July 13, 2015
+ * 
+ * 
+ */
+public class largest_palindrome_4 {
+
+	public static void main(String[] args) {
+	
+		if(isPalindrome(1002)){
+			System.out.println("Yes");
+		}
+		else{
+			System.out.println("No");
+		}
+		
+		
+	}
+	public static boolean isPalindrome(int num){
+		
+		String number = Integer.toString(num);
+		
+		int count = 0, max = number.length()-1;
+		boolean flag = false;
+		for(count = 0; count < number.length(); count++){
+			if(number.charAt(count) == number.charAt(max)){
+				flag = true;
+			}
+			else{
+				return false;
+			}
+			
+			max--;
+		}
+		return flag;
+		
+		}
+
+}

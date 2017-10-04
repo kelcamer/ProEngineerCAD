@@ -1,0 +1,18 @@
+
+public class Prime10001_7 {
+
+	public static void main(String[] args) {
+
+		
+		for(int count = 0; count < 999999999; count++){
+			
+			
+			
+		}
+		
+		
+	
+				
+
+}
+}

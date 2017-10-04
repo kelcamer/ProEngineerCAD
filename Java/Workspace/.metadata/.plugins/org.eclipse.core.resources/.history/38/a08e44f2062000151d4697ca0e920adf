@@ -1,0 +1,86 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.*;
+
+
+public class hill_cipher_1 {
+
+	public static void main(String[] args) throws IOException {
+		File input = new File("input.txt");
+		Scanner scanny_f = new Scanner(input);
+		Scanner scanny = new Scanner(System.in);
+		int dim = scanny_f.nextInt();
+		int[][] matrix = new int[dim][dim];
+	
+		for(int row = 0; row < dim; row++){
+			for(int col = 0; col < dim; col++){
+				matrix[row][col] = scanny_f.nextInt();	
+			}
+		}
+		char unencrypted[] = get_data_from_file("panelnotes.txt");
+		char encrypted[] = encrypt(unencrypted, matrix, dim);
+	}
+
+
+
+
+public static char[] get_data_from_file(String filename) throws IOException{
+		File input = new File(filename);
+		char[] list = new char[10000];
+		Scanner scanner = new Scanner(input);
+		
+		String theString = "";
+
+		while (scanner.hasNext()) {
+		       theString = theString + scanner.next();
+		}
+		theString = theString.replaceAll("[^a-zA-Z]", "").toLowerCase();
+		list = theString.toCharArray();
+
+		//System.out.println(list);
+
+		scanner.close();
+		return list;
+}
+public static char[] encrypt(char[] data, int[][] key, int dimen){
+	int letter_mod[] = new int[10000];
+	int temp_key[] = new int[3];
+	int temp_sum = 0;
+	// change 3
+	for(int b = 0; b < data.length; b++){
+	for(int count = 0; count < 3; count++){
+		letter_mod[count] = (int)(data[count] - 'a');
+	
+		if(count >= 2){
+			temp_key[0] = letter_mod[count-2];
+			temp_key[1] = letter_mod[count-1];
+			temp_key[2] = letter_mod[count];
+		//	System.out.println(letter_mod[count] + " " + count);
+			//for(int row = 0; row < dimen; row++){
+			//for(int col = row; col < 3; col++){
+					
+				//	System.out.println(key[row][col] + " " + temp_key[col] + " " +  key[row][col] * temp_key[col]);
+			for(int a = 0; a < 3; a++){
+					temp_sum += key[a][0] * temp_key[0];
+					temp_sum += key[a][1] * temp_key[1];
+					temp_sum += key[a][2] * temp_key[2];
+					System.out.println(temp_sum);
+					char c = (char) (temp_sum%26 + 'a');
+					System.out.println(c);
+					temp_sum = 0;
+				}
+			
+		}
+		// gets 0 to 25 number
+	//	System.out.println(letter_mod);
+	}
+	
+	}
+	
+	return data;
+	
+	
+	
+}
+}

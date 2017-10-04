@@ -1,0 +1,87 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.*;
+
+
+public class hill_cipher_1 {
+
+	public static void main(String[] args) throws IOException {
+		File input = new File("input.txt");
+		Scanner scanny_f = new Scanner(input);
+		Scanner scanny = new Scanner(System.in);
+		int dim = scanny_f.nextInt();
+		int[][] matrix = new int[dim][dim];
+	
+		for(int row = 0; row < dim; row++){
+			for(int col = 0; col < dim; col++){
+				matrix[row][col] = scanny_f.nextInt();	
+			}
+		}
+		char unencrypted[] = get_data_from_file("panelnotes.txt");
+		char encrypted[] = encrypt(unencrypted, matrix, dim);
+	}
+
+
+
+
+public static char[] get_data_from_file(String filename) throws IOException{
+		File input = new File(filename);
+		char[] list = new char[10000];
+		Scanner scanner = new Scanner(input);
+		
+		String theString = "";
+
+		while (scanner.hasNext()) {
+		       theString = theString + scanner.next();
+		}
+		theString = theString.replaceAll("[^a-zA-Z]", "").toLowerCase();
+		list = theString.toCharArray();
+
+		//System.out.println(list);
+
+		scanner.close();
+		return list;
+}
+public static char[] encrypt(char[] data, int[][] key, int dimen){
+	int letter_mod[] = new int[10000];
+	int temp_key[] = new int[3];
+	int temp_sum = 0;
+	// change 3
+	for(int count = 0; count < 10; count++){
+		letter_mod[count] = (int)(data[count] - 'a');
+	
+	
+			int a = 0;
+			//while(a < 3){
+				if(count >= 2 ){
+				temp_key[0] = letter_mod[count-2];
+				temp_key[1] = letter_mod[count-1];
+				temp_key[2] = letter_mod[count];
+				System.out.println(temp_key[0] + " " + temp_key[1] + " " + temp_key[2] + " ");
+					temp_sum += key[a][0] * temp_key[0];
+					temp_sum += key[a][1] * temp_key[1];
+					temp_sum += key[a][2] * temp_key[2];
+					System.out.println(temp_sum);
+					System.out.println(convert_to_letter(temp_sum));
+					temp_sum = 0;
+					count+=2;
+				//}
+			
+		}
+		// gets 0 to 25 number
+	//	System.out.println(letter_mod);
+	}
+	
+	
+	
+	return data;
+	
+	
+	
+}
+public static char convert_to_letter(int temp){
+	char c = (char) (temp%26 + 'a');
+	return c;
+}
+}

@@ -1,0 +1,103 @@
+import java.util.ArrayList;
+
+
+public class HighlyDivisibleTriangularNum_12 {
+
+	public static void main(String[] args) {
+
+		int startfrom = 30000;
+		ArrayList<Integer> list_of_tri_num= new ArrayList<Integer>();
+	
+		
+		// n(n+1) / 2
+		/*
+		list_of_tri_num = generateTriNumRecurse(startfrom, list_of_tri_num, ((startfrom * (startfrom + 1)) / 2), 30600);
+		
+		int a = 0;
+		int fact = 0;
+			while(a < 600 && fact!=500){
+		//		System.out.println(list_of_tri_num.get(a));
+				fact = getNumOfFactors(list_of_tri_num.get(a));
+				if(fact > 400){
+					System.out.println(fact);
+				}
+			a++;
+			
+		}
+		*/
+		getNumOfFactors(500);
+		
+		// change get factors
+	
+		
+		
+	}
+	public static ArrayList<Integer> generateTriNumRecurse(int count, ArrayList<Integer> list, int curnum, int loop){
+			
+			count++;
+			curnum+=count;
+			list.add(curnum);
+			
+		
+			if(count < loop){
+			list = generateTriNumRecurse(count++, list, curnum, loop);
+			}
+		
+		return list;
+	}
+	public static ArrayList<Integer> alternativeTriNum(int first){
+		ArrayList<Integer> list_of_tri_num= new ArrayList<Integer>();
+			for(int count = first; count < 100; count++){
+				first += count;
+				if(isDivisible(first, 2)&&isDivisible(first, 3)&&isDivisible(first, 4))
+				list_of_tri_num.add(first);
+				
+			//	System.out.println("Number: " + first);
+				
+			}
+			return list_of_tri_num;
+	}
+	public static int getNumOfFactors(int num){
+		ArrayList<Integer> factors = new ArrayList<Integer>();
+		int counter = 0;
+		for(int count = num/2; count > 0; count--){
+			System.out.println("NUM " + num);
+		
+				
+				while(num%count == 0){
+				if(!factors.contains(num)){
+					num/=count;
+					factors.add(count);
+					System.out.println("NUM " + num);
+					counter++;
+					break;
+				}
+	
+				System.out.println("NUM " + num);
+			
+			
+		
+		}
+		}
+		
+	for(int c = 0; c < factors.size(); c++){
+		}
+		if(counter > 0){
+			//System.out.println("COUNT " + counter);
+		return counter;
+		}
+		else{
+			return 0;
+		}
+	}
+	public static boolean isDivisible(int num, int num2){
+		if(num % num2 == 0){
+			return true;
+		}
+		else{
+			return false;
+		}
+		
+	}
+
+}

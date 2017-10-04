@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment Tracker</string>
+	<string name="title">Assignment Name</string>
+	<string name="hint_title">Assignment Name</string>
+	<string name="duedate">Due Date</string>
+	<string name="hint_duedate">Due Date</string>
+	<string name="course">Course or Class</string>
+	<string name="hint_course">Course/Class</string>
+	<string name="notes">Notes</string>
+	<string name="hint_notes">Notes</string>
+	<string name="add">Add Assignment</string>
+	<string name="view">View Assignments</string>
+</resources>

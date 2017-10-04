@@ -1,0 +1,32 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+
+public class largestproduct_8 {
+
+	
+	public static void main(String[] args) throws FileNotFoundException {
+		File input = new File("input.txt");
+		Scanner scanny_f = new Scanner(input);
+		
+		
+		while(scanny_f.hasNext()){
+			for(int count = 0; count < 13; count++){
+				
+			}
+			
+			
+			
+			
+			
+		}
+		
+		
+		
+
+	}
+
+	
+	
+}

@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+/*
+ * Kelsey Cameron
+ * July 14, 2015
+ */
+public class closest_numbers_grid_11 {
+
+	public static void main(String[] args) {
+		int dim = 0;
+		System.out.println("What are the dimensions of the square grid?");
+		Scanner scanny = new Scanner(System.in);
+		dim = scanny.nextInt();
+		int[][] grid = new int[dim][dim];
+		
+		
+		
+		
+	}
+
+}

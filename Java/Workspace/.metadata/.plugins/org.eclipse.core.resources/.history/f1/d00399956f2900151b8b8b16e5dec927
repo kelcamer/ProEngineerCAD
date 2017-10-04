@@ -1,0 +1,81 @@
+/*
+ * Kelsey Cameron
+ * July 13, 2015
+ * 
+ * 
+ */
+public class largest_palindrome_4 {
+
+	public static void main(String[] args) {
+		int num1 = 999, num2 = 999;
+		int result = 0;
+		int highest = 0;
+		result = num1*num2;		
+		
+		
+		while(!isPalindrome(result)){
+			System.out.println(num1 + " * " + num2 + " = " + result);
+			
+			for(int count = 0; count < num1; count++){
+				result = num1 * (num1-count);
+				if(!isPalindrome(result)){
+					num2 = num1;
+					result = num1 * num2;
+					System.out.println(num1 + " * " + num2 + " = " + result);
+
+				}
+				System.out.println("Highest " + num1 + " * " + (num1-count) + " = " + result);
+				if(isPalindrome(result) && result > highest){
+					highest = result;
+				}
+			}
+			
+			
+			/*result = num1*num2;
+			if(!isPalindrome(result)){
+			
+				
+				
+				if(!isPalindrome(result)){
+					num2--;
+					result = num1*num2;
+				//	System.out.println(num1 + " * " + num2 + " = " + result);
+				}
+				if(!isPalindrome(result)){
+					result = num1 * (num1-1);
+					System.out.println(num1 + " * " + (num1-1) + " = " + result);
+					num1--;
+				}
+				if(isPalindrome(result)){
+					break;
+				}
+			}
+			*/
+			
+			
+		}
+		
+		System.out.println(num1 + " * " + num2 + " = " + result);
+		
+	}
+	public static boolean isPalindrome(int num){
+		
+		String number = Integer.toString(num);
+		
+		int count = 0, max = number.length()-1;
+		boolean flag = false;
+		for(count = 0; count < number.length(); count++){
+			if(number.charAt(count) == number.charAt(max)){
+				flag = true;
+			}
+			else{
+				return false;
+			}
+			
+			max--;
+		}
+		return flag;
+		
+		}
+
+}

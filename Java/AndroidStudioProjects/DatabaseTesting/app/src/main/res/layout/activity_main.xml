@@ -1,0 +1,169 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:ems="14"
+        android:id="@+id/name"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/add"
+        android:layout_toEndOf="@+id/add" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/id"
+        android:layout_below="@+id/name"
+        android:layout_alignRight="@+id/name"
+        android:layout_alignEnd="@+id/name"
+        android:layout_toRightOf="@+id/add"
+        android:layout_toEndOf="@+id/add" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/color"
+        android:layout_below="@+id/id"
+        android:layout_alignRight="@+id/id"
+        android:layout_alignEnd="@+id/id"
+        android:layout_toRightOf="@+id/add"
+        android:layout_toEndOf="@+id/add" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click Display to see the stored Data :D"
+        android:textSize="18dp"
+        android:id="@+id/textDisplay"
+        android:layout_marginTop="143dp"
+        android:layout_below="@+id/name"
+        android:layout_alignLeft="@+id/add"
+        android:layout_alignStart="@+id/add" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:id="@+id/add"
+        android:onClick="onClick_AddRecord"
+        android:clickable="true"
+        android:layout_alignTop="@+id/clear"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="34dp"
+        android:layout_marginStart="34dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear"
+        android:clickable="true"
+        android:onClick="onClick_ClearAll"
+        android:id="@+id/clear"
+
+        android:layout_marginBottom="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Display"
+        android:clickable="true"
+        android:id="@+id/display"
+        android:onClick="onClick_DisplayRecords"
+        android:layout_alignTop="@+id/clear"
+        android:layout_alignRight="@+id/textDisplay"
+        android:layout_alignEnd="@+id/textDisplay" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Name:  "
+        android:textSize="18dp"
+        android:id="@+id/textView"
+        android:layout_above="@+id/id"
+        android:layout_alignRight="@+id/add"
+        android:layout_alignEnd="@+id/add" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Id:  "
+        android:textSize="18dp"
+        android:id="@+id/textView2"
+        android:layout_alignBottom="@+id/id"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Color:  "
+        android:textSize="18dp"
+        android:id="@+id/textView3"
+        android:layout_alignBottom="@+id/color"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date:  "
+        android:textSize="18dp"
+        android:id="@+id/date"
+        android:layout_below="@+id/color"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text=""
+        android:id="@+id/textView4"
+        android:layout_below="@+id/color"
+        android:layout_alignBottom="@+id/date"
+        android:layout_alignRight="@+id/color"
+        android:layout_alignEnd="@+id/color"
+        android:layout_toRightOf="@+id/add"
+        android:layout_toEndOf="@+id/add" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_bar"
+        android:layout_below="@+id/add"
+        android:layout_alignLeft="@+id/add"
+        android:layout_alignStart="@+id/add"
+        android:layout_alignRight="@+id/display"
+        android:layout_alignEnd="@+id/display" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/search_button"
+        android:layout_alignTop="@+id/search_bar"
+        android:layout_alignRight="@+id/textDisplay"
+        android:layout_alignEnd="@+id/textDisplay"
+        android:onClick="onClick_search"/>
+
+
+</RelativeLayout>

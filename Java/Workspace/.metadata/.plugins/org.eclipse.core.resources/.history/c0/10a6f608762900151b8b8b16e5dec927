@@ -1,0 +1,19 @@
+
+public class largest_positive_factor_5 {
+	public static void main(String[] args) {
+		boolean flag = false;
+		for(int num = 999999990; num > 0; num--){
+			for(int fact = 20; fact >=11; fact--){
+				if(num%fact == 0){
+					flag = true;
+				}
+			}
+			
+			
+		}
+		
+		
+		
+		
+	}
+}

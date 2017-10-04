@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"   android:layout_marginTop="25dp"
+    android:layout_marginLeft="25dp"
+    android:layout_marginBottom="25dp"
+    android:layout_marginRight="25dp" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="match_parent"
+        android:text="Click Display to see the stored Data :D"
+        android:textSize="20dp"
+        android:id="@+id/textDisplay2"
+        android:layout_below="@+id/dream"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/add"
+        android:layout_alignParentRight="true"
+        android:maxLines = "20"
+        android:scrollbars = "vertical"
+        android:layout_alignParentEnd="true" />
+</LinearLayout>

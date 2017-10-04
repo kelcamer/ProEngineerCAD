@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AddingLargeNumbers.java&apos; to &apos;Project Euler&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Destination element: &apos;Project Euler&apos;&#x0D;&#x0A;- Original element: &apos;AddingLargeNumbers.java&apos;" description="Copy compilation unit" destination="=Project Euler" element1="/src&lt;{AddingLargeNumbers.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1437660528827" units="1" version="1.0"/>
+</session>

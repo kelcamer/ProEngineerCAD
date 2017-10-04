@@ -1,0 +1,29 @@
+
+public class Prime10001_7 {
+
+	public static void main(String[] args) {
+
+		int flag = 0;
+		for(int count = 0; count < 999999999; count++){
+			
+			for(int count2 = 0; count < Math.pow(count, 0.5); count2++){
+				if(count % count2 == 0){
+					flag = 1;
+				}
+				else{
+					flag = 0;
+				}
+				
+				
+			}
+		if(flag == 1){
+			System.out.println("Number " + count + " is prime.");
+		}
+		}
+		
+		
+	
+				
+
+}
+}

@@ -1,0 +1,14 @@
+
+public class square_of_sums_6 {
+
+	public static void main(String[] args) {
+		
+		for(int count = 1; count < 101; count++){
+			
+		}
+		
+		
+
+	}
+
+}

@@ -1,0 +1,1605 @@
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot modify the reverse horizontal placement flag
+%UIMSG-APPLICATION-ERROR, Failed to modify global attributes
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'pgl_warning_message'
+%UIMSG-USER-ERROR, Failed to create device: pgl_warning_message, from resource file: pgl_warning_message
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../libs/prowtlibs/text/compiled_resource/prowtlibs_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../proe/uitools/text/compiled_resource/uitools_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../text/compiled_resource/.._resources.dll
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-COMMAND-ERROR, _uicmd_access_find_named: could not find AccessId for "pause_wdg_explode_access"
+%UIMSG-COMMAND-ERROR, uicmd_access_func_find_named: Failed to find access function name
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_BOTTOM_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_BOTTOM_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.1.0, in device: Properties.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s1, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s1, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s1, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s1, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.1.0, in device: Properties.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.1.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w2, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w2, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s1, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s1, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s1, in device: ScrLayout.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s1, in device: ScrLayout.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.1.0, in device: ScrLayout.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.1.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.1.0, in device: Properties.1.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.1.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: Open_Rep, in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w3
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w3
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w3' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Dialog 'main_dlg_w2@main_dlg_w2' is not in an event loop
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w3
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w3
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Dialog 'main_dlg_w3@main_dlg_w3' is not in an event loop
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s1, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s1, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s1, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s1, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not find component: ConstrListTab, in device: new_compplace, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: InWin, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: InAssem, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: flip, in device: new_compplace, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.DashPreview, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.DELETE_PB_.l0, in device: ScrLayout.0.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InWin, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.InAssem, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_set_type_menu, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_offset_menu, in device: main_dlg_w1, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.constr_flip_pbtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_intfc_type, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.place_assem_intfc_list, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.manual_intfc_radio, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.UseSlotBtn, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w1, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_regen_val_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_set_zero_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_on_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_dyn_props_off_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_rest_coef_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_fric_chk, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_max_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref_sel_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_min_lim_ref, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.JasSplitBtnMenu_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.MotionAxisPropPH.motion_axis_split_cascade_btn, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_set_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.enable_constr_chkbtn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_flip_btn, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_set_type_menu, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.pop_constr_offset_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_intfc_type, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.right_place_comp_intfc_list, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.IntrftoIntrfclist2, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s0, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s0, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo01.l0.s1, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.comp_ref_represent.l0.s1, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.ExpList_Wmo02.l0.s1, in device: ScrLayout.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.L.S.l0.assem_ref_represent.l0.s1, in device: ScrLayout.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: ScrLayout.0.0, in device: ScrLayout.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.Flex_btn, in device: comp_place_flex_odui.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name_Wmo01, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.comp_place_name, in device: Properties.0.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Properties.0.0, in device: Properties.0.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.BackupRefBtn, in device: Properties.0.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find device: new_compplace, to destroy
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: , for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: , in device: file_saveas, for modify
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to modify component: ph_list.Filelist, in device: file_saveas
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve

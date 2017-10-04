@@ -1,0 +1,1551 @@
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Cannot modify the reverse horizontal placement flag
+%UIMSG-APPLICATION-ERROR, Failed to modify global attributes
+%UIMSG-APPLICATION-ERROR, No device name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Could not open resource file 'pgl_warning_message'
+%UIMSG-USER-ERROR, Failed to create device: pgl_warning_message, from resource file: pgl_warning_message
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../libs/prowtlibs/text/compiled_resource/prowtlibs_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../proe/uitools/text/compiled_resource/uitools_resources.dll
+%UIMSG-APPLICATION-ERROR, Failed to load resource dll C:\Program Files\proeWildfire 5.0\../../text/compiled_resource/.._resources.dll
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List ItemInquire: Item name is NULL for Ph_list.Filelist@file_open
+%UIMSG-APPLICATION-ERROR, Failed to do operation 202 to component: Ph_list.Filelist, in device: file_open
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w1' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_TOP_R0.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w2
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w2' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named EAR_HOOK_TOP_R0.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w3
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w3
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w3' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w4
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w4
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w4' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_INSERT_R0.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R0
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w5
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w5
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w5' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R0.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w6
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w6
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w6' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_BOTTOM_R1.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w7
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w7
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w7' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_INSERT_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_INSERT_R1.stp
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_R1
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_set_action
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w8
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w8
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w8' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, _uicmd_access_find_named: could not find AccessId for "pause_wdg_explode_access"
+%UIMSG-COMMAND-ERROR, uicmd_access_func_find_named: Failed to find access function name
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_node_display_comp_Op is obsolete - use UI_item_modify_Op or UI_cell_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_node_display_comp_Op is obsolete - use UI_item_modify_Op or UI_cell_modify_Op
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_node_display_comp_Op is obsolete - use UI_item_modify_Op or UI_cell_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, List has 0 items, but trying to set 1 selections
+%UIMSG-APPLICATION-ERROR, Failed to modify component: t1.SkViewOM, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, _uicmd_command_add_attr: Command is NULL
+%UIMSG-COMMAND-ERROR, uicmd_attr_attach_cmd: Failed to add/set attribute '<NULL CMD>' for command 'SKET_CMD_ATTR'
+%UIMSG-COMMAND-ERROR, uicmd_attr_attach_cmd: Failed to add command 'SKET_CMD_ATTR' to attribute '<NULL CMD>'
+%UIMSG-COMMAND-ERROR, _uicmd_command_add_attr: Command is NULL
+%UIMSG-COMMAND-ERROR, uicmd_attr_attach_cmd: Failed to add/set attribute '<NULL CMD>' for command 'SYNC_CMD_ATTR'
+%UIMSG-COMMAND-ERROR, uicmd_attr_attach_cmd: Failed to add command 'SYNC_CMD_ATTR' to attribute '<NULL CMD>'
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: LeftOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: LeftOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: LeftOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: TopOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: TopOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: TopOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: BottomOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: BottomOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: BottomOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PH.sheet_metal_op_tab, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: extrev_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_1_placement.8.0, in device: extrev_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_bends_check, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_rad_side_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, _dui_detach_placeholder - placeholder menu stack is empty
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.material_om_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fitType, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.lock_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_type1, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.blend_opm, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.Adjust_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.flip_datum_dir, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fitType, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.lock_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_type1, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.Adjust_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.flip_datum_dir, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fitType, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.lock_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_type1, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.Adjust_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.flip_datum_dir, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.outline_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fittype_om, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.outline_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fittype_om, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.outline_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fittype_om, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Tree UI_tree_set_node_display_comp_Op is obsolete - use UI_item_modify_Op or UI_cell_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_01
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_01, in device: Odui_Dlg_01
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component pg_vis_tab, in Dialog Odui_Dlg_01
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_01, in device: Odui_Dlg_01
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_01, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_01, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_01, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_01, for remove action
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fitType, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.lock_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_type1, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.Adjust_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.flip_datum_dir, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.fitType, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.lock_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_type1, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.constr_dim1, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.Adjust_cb, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.flip_datum_dir, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t3.datum_plane_name, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: LeftOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: LeftOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: LeftOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: TopOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: TopOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: TopOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: BottomOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: BottomOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: BottomOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PH.sheet_metal_op_tab, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: extrev_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_1_placement.8.0, in device: extrev_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_bends_check, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_rad_side_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.material_om_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.revaxis_summary_coll, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.InternalCL, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: revolve_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.axis_select_list, in device: revolve_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: revolve_1_placement.8.0, in device: revolve_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_revoptions.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_revoptions.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_revoptions.8.0, in device: extrev_2_revoptions.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: LeftOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: LeftOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: LeftOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: TopOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: TopOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: TopOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: BottomOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: BottomOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: BottomOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PH.sheet_metal_op_tab, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.material_om_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: extrev_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_1_placement.8.0, in device: extrev_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_bends_check, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_rad_side_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component t1.RefMru, in Dialog Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Failed to modify component: Odui_Dlg_00, in device: Odui_Dlg_00
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: LeftOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: LeftOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: LeftOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: TopOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: TopOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: TopOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: BottomOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: BottomOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: BottomOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PH.sheet_metal_op_tab, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.material_om_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: extrev_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_1_placement.8.0, in device: extrev_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_bends_check, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_rad_side_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_add: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-APPLICATION-ERROR, Table UI_get_row_index_Op is obsolete - use UI_row_inquire_Op
+%UIMSG-COMMAND-ERROR, uicmd_cmd_bracket_func_remove: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: t0.Pause, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.UsePrevPlnB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.FlipB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t1.SkViewOM, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.HatchCB, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp_Wmo01, in device: Odui_Dlg_00, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: t2.NameInp, in device: Odui_Dlg_00, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: Odui_Dlg_00, in device: Odui_Dlg_00, to do operation
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: LeftOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: LeftOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: LeftOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: TopOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: TopOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: TopOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Negative value (-1), found for attribute: BottomOffset. Must be >= 0
+%UIMSG-APPLICATION-ERROR, Error validating attribute: BottomOffset
+%UIMSG-APPLICATION-ERROR, Invalid value found modifying attribute: BottomOffset, of component: PH.sheet_metal_op_tab@extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PH.sheet_metal_op_tab, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_drv_label, in device: extrev_2_options.8.0, for modify
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component PH.depth1_sel_pb, in Dialog extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: extrev_2_options.8.0, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component PH.depth1_sel_pb, in Dialog extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: extrev_2_options.8.0, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component PH.depth1_sel_pb, in Dialog extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: extrev_2_options.8.0, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Attempt to set focus on a non-focusable component PH.depth1_sel_pb, in Dialog extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Failed to modify component: extrev_2_options.8.0, in device: extrev_2_options.8.0
+%UIMSG-APPLICATION-ERROR, Component 'msg_container@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Component 'dashInst0@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.pV, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.flip_pb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.solid_surf_rg, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thin_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.remove_material_cb, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.thickness_ip, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: dashInst0.Pause, in device: main_dlg_w9, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.def_depth1_sel_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: maindashInst0.trim_select_list, in device: main_dlg_w9, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_1_placement.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.section_select_list, in device: extrev_1_placement.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_1_placement.8.0, in device: extrev_1_placement.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.cap_cb, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_ip, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo01, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth1_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.ExpList_Wmo02, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.depth2_sel_list, in device: extrev_2_options.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: extrev_2_options.8.0, in device: extrev_2_options.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_bends_check, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.smt_rad_side_om, in device: extrev_2_options.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip_Wmo01, in device: x_extrev_properties.8.0, for remove action
+%UIMSG-APPLICATION-ERROR, Could not find component: PH.name_ip, in device: x_extrev_properties.8.0, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: x_extrev_properties.8.0, in device: x_extrev_properties.8.0, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w9
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Dialog 'main_dlg_w9@main_dlg_w9' is not in an event loop
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, _uicmd_command_one_component_update - no value set for BrowseSelect command <ProCmdRecentFileOpen>
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_preview.PvBrowser, in device: file_open, for inquire
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, List: Ph_list.Filelist@file_open does not contain an item named XDUCER_MOLD_TOP_R1.stp
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-COMMAND-ERROR, _uicmd_command_set_component_values: component 'Edit.pshUndo@main_dlg_w9' is wrong type for command 'ProCmdEditUndo'
+%UIMSG-COMMAND-ERROR, _uicmd_command_set_component_values: component 'Edit.pshRedo@main_dlg_w9' is wrong type for command 'ProCmdEditRedo'
+%UIMSG-COMMAND-ERROR, _uicmd_command_set_component_values: component 'DetailEdit.pshUndo@main_dlg_w9' is wrong type for command 'ProCmdEditUndo'
+%UIMSG-COMMAND-ERROR, _uicmd_command_set_component_values: component 'DetailEdit.pshRedo@main_dlg_w9' is wrong type for command 'ProCmdEditRedo'
+%UIMSG-APPLICATION-ERROR, Parent EMBED_BROWSER_FC_BUTTONS_DA resizing child EMBED_BROWSER_SEARCH_IP (0,0) (124x21) to be partially viewable in (0,0) (124x20)
+%UIMSG-APPLICATION-ERROR, Did not find page <PHTLeft.Folders> in Tab PHTLeft.ProExplorerTab@main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.ProExplorerTab, in device: main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Component 'PHTLeft.SecondaryTreeSash@main_dlg_w9' is being resized when UI_redraw_Attr == FALSE
+%UIMSG-APPLICATION-ERROR, UI_tree_node_expand_Op is obsolete - use UI_item_modify_Op
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-COMMAND-ERROR, uicmd_default_inquire: NULL uiCmdCommand
+%UIMSG-APPLICATION-ERROR, Could not find component: Ph_list.Filelist, in device: file_open, to do operation
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w9
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w9
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-APPLICATION-ERROR, Dialog 'main_dlg_w9@main_dlg_w9' is not in an event loop
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: Selobj_bin, in device: rmb_popup, for modify
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-APPLICATION-ERROR, Could not find component: popup_preview, in device: popup_preview, for retrieve
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-APPLICATION-ERROR, Attempt to select 0 pages of Tab: PHTLeft.MainTreeTab@main_dlg_w1
+%UIMSG-APPLICATION-ERROR, Failed to modify component: PHTLeft.MainTreeTab, in device: main_dlg_w1
+%UIMSG-APPLICATION-ERROR, No component name specified for ui_modify
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 
+%UIMSG-USER-ERROR, Failed to preload image 

@@ -1,0 +1,28 @@
+
+public class largest_positive_factor_5 {
+	public static void main(String[] args) {
+		boolean flag = false;
+		int max = 0;
+		for(int num = 0; num < 999999999; num++){
+			for(int fact = 20; fact >=11; fact--){
+				if(num%fact == 0){
+					flag = true;
+					if(num>max)
+					max = num;
+				}
+				else{
+					flag = false;
+				}
+			}
+			
+		}
+		if(flag == true){
+			System.out.println(max);
+			//break;
+		}
+		
+		
+		
+		
+	}
+}

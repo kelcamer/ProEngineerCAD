@@ -1,0 +1,27 @@
+
+public class graphs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public class node{
+		node next, prev;
+		node(node n, node p){
+			this.next = n;
+			this.prev = p;
+		}
+	}
+	public class edge{
+		node c1, c2;
+		int weight;
+		edge(node con1, node con2, int w){
+			this.c1 = con1;
+			this.c2 = con2;
+			this.weight = w;
+		}
+		
+		
+	}
+
+}

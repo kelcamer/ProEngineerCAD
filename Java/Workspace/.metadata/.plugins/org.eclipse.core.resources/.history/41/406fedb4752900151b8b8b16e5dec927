@@ -1,0 +1,17 @@
+
+public class largest_positive_factor_5 {
+	public static void main(String[] args) {
+	
+		for(int num = 999999999; num > 0; num--){
+			for(int fact = 20; fact >=11; fact--){
+				
+			}
+			
+			
+		}
+		
+		
+		
+		
+	}
+}

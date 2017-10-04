@@ -1,0 +1,18 @@
+
+public class square_of_sums_6 {
+
+	public static void main(String[] args) {
+		int sq_of_sum = 0, sum_of_sq = 0;
+		for(int count = 1; count < 11; count++){
+			sq_of_sum += count;
+			sum_of_sq += Math.pow(count,  2);
+			System.out.println(sq_of_sum + " " + sum_of_sq);
+		}
+		Math.pow(sq_of_sum, 2);
+		
+		int difference = sum_of_sq - sq_of_sum;
+		System.out.println(difference);
+
+	}
+
+}

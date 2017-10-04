@@ -1,0 +1,46 @@
+
+public class graphs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Node c1 = new Node(); 
+		Node c2 = new Node(); 
+		Node c3 = new Node(); 
+		Node c4 = new Node(); 
+		Edge e1 = new Edge(c1, c2, 5);
+		Edge e2 = new Edge(c2, c3, 10);
+		Edge e3 = new Edge(c3, c4, 15);
+		Edge e4 = new Edge(c4, c1, 20);
+		Square main = new Square(e1,e2,e3,e4);
+		
+	}
+	 class Node{
+		Node next, prev;
+		public Node(){
+			this.next = null;
+			this.prev = null;
+		}
+	}
+	 class Edge{
+		Node c1, c2;
+		int weight;
+		public Edge(Node con1, Node con2, int w){
+			this.c1 = con1;
+			this.c2 = con2;
+			this.weight = w;
+		}
+		
+		
+	}
+	 class Square{
+		Edge ed1,ed2,ed3,ed4;
+		public Square(Edge edg1,Edge edg2,Edge edg3,Edge edg4){
+			this.ed1 = edg1;
+			this.ed2 = edg2;
+			this.ed3 = edg3;
+			this.ed4 = edg4;
+		}
+		
+	}
+
+}

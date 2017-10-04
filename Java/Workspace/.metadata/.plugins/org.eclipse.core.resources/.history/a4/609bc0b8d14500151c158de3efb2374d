@@ -1,0 +1,72 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+
+public class graphs {
+
+	public void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList<Node> all = new ArrayList<Node>();
+		int choice = dialog();
+		switch(choice){
+		case 1:
+			// new node
+			System.out.println("Pick a simple name for your node to identify it.");
+			String name = getNewName();
+			Node c1 = new Node(name); 
+			all.add(c1);
+			break;
+		case 2:
+			// new edge
+			System.out.println("Which nodes would you like to connect?");
+			String 
+			
+			break;
+		
+		}
+		/*Node c1 = new Node(); 
+		Node c2 = new Node(); 
+		Node c3 = new Node(); 
+		Node c4 = new Node(); 
+		Edge e1 = new Edge(c1, c2, 5);
+		Edge e2 = new Edge(c2, c3, 10);
+		Edge e3 = new Edge(c3, c4, 15);
+		Edge e4 = new Edge(c4, c1, 20);
+		*/
+		
+	}
+	 public class Node{
+		String iden;
+		Node next, prev;
+		public Node(String id){
+			this.next = null;
+			this.prev = null;
+			this.iden = id;
+		}
+	}
+	 public class Edge{
+		Node c1, c2;
+		int weight;
+		public Edge(Node con1, Node con2, int w){
+			this.c1 = con1;
+			this.c2 = con2;
+			this.weight = w;
+		}
+		
+		
+	}
+	 public static int dialog(){
+		 System.out.println("1 = New Node\n2= New Weighted Edge\n3 = Quit");
+		 Scanner scanny = new Scanner(System.in);
+		 int choice = scanny.nextInt();
+		 scanny.close();
+		 return choice;
+	 }
+	public static String getNewName(){
+	
+		 Scanner scanny = new Scanner(System.in);
+		 String choice = scanny.next();
+		 scanny.close();
+		 return choice;
+	}
+}

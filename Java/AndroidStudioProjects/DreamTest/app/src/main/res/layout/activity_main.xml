@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginRight="10dp">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:inputType="textMultiLine"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/dream"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Click Display to see the stored Data :D"
+        android:textSize="20dp"
+        android:id="@+id/textDisplay"
+        android:layout_below="@+id/dream"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/add"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:padding="5dp"
+        android:id="@+id/add"
+        android:onClick="onClick_AddRecord"
+        android:clickable="true"
+        android:layout_marginLeft="30dp"
+
+        android:layout_alignTop="@+id/clear"
+       />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear"
+        android:padding="5dp"
+        android:clickable="true"
+        android:onClick="onClick_ClearAll"
+        android:id="@+id/clear"
+        android:layout_marginBottom="45dp"
+        android:layout_above="@+id/search_bar"
+        android:layout_marginLeft="100dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Display"
+        android:clickable="true"
+        android:id="@+id/display"
+        android:onClick="onClick_DisplayRecords"
+        android:padding="5dp"
+        android:layout_marginLeft="170dp"
+        android:layout_alignTop="@+id/clear"
+
+      />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Please type in your dream:  "
+        android:textSize="18dp"
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_bar"
+        android:layout_marginBottom="67dp"
+
+        android:layout_alignParentBottom="true"
+
+        android:layout_toLeftOf="@+id/search_button"
+        android:layout_alignLeft="@+id/delete"
+        android:layout_alignStart="@+id/delete" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/search_button"
+        android:onClick="onClick_search"
+        android:layout_alignTop="@+id/search_bar"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="26dp"
+
+        android:layout_marginEnd="26dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Backup"
+        android:padding="5dp"
+        android:id="@+id/backup"
+        android:layout_marginLeft="260dp"
+        android:onClick="onClick_Backup"
+        android:layout_alignBaseline="@+id/display"
+        android:layout_alignBottom="@+id/display"
+    />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/delete"
+        android:layout_below="@+id/search_button"
+        android:layout_alignLeft="@+id/add"
+
+        android:layout_toLeftOf="@+id/delete_button"
+        android:layout_toStartOf="@+id/delete_button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Which?"
+        android:onClick="onClick_Delete"
+        android:id="@+id/delete_button"
+        android:layout_below="@+id/search_button"
+        android:layout_alignRight="@+id/search_button"
+        android:layout_alignEnd="@+id/search_button" />
+
+
+</RelativeLayout>

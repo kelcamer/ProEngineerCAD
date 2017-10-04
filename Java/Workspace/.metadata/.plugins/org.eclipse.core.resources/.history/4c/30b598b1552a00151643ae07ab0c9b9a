@@ -1,0 +1,36 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+/*
+ * Kelsey Cameron
+ * July 14, 2015
+ */
+public class closest_numbers_grid_11 {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		int dim = 0;
+		System.out.println("What are the dimensions of the square grid?");
+		Scanner scanny = new Scanner(System.in);
+		dim = scanny.nextInt();
+		int[][] grid = new int[dim+1][dim+1];
+		File input = new File("grid.in");
+		Scanner scanny_f = new Scanner(input);
+		String buffer = "";
+		while(scanny_f.hasNextLine()){
+			buffer = buffer + scanny_f.nextLine() + "\n";
+		}
+	//	System.out.println(buffer);
+		
+		for(int x = 0; x < dim; x++){
+			
+		}
+		for(int y = 0; y < dim; y++){
+			
+			
+			
+			
+		}
+	}
+
+}
